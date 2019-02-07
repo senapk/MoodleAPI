@@ -1,0 +1,86 @@
+﻿QUESTAO COM TESTE V3
+%%%
+DESCRIÇÃO CURTA V3
+%%%
+<p data-line="0" class="code-line" style="position: relative; color: rgb(0, 0, 0); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe WPC&quot;, &quot;Segoe UI&quot;, HelveticaNeue-Light, Ubuntu, &quot;Droid Sans&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><img src="https://user-images.githubusercontent.com/4747652/52278905-f6f90b00-2936-11e9-881a-f9af7702170e.jpg" alt="hands" class="" id="image-hash-5a93ea9cf781190a5d2b6a0aea480adfbe2c6171dc2ba1b2dc3fbb22215678d1" style="max-width: 100%; max-height: 100%;"></p><h3 id="motiva%C3%A7%C3%A3o" data-line="2" class="code-line" style="font-weight: normal; position: relative; color: rgb(0, 0, 0); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe WPC&quot;, &quot;Segoe UI&quot;, HelveticaNeue-Light, Ubuntu, &quot;Droid Sans&quot;, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">Motivação</h3><ul style="color: rgb(0, 0, 0); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe WPC&quot;, &quot;Segoe UI&quot;, HelveticaNeue-Light, Ubuntu, &quot;Droid Sans&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><li data-line="4" class="code-line" style="position: relative;">Chico: Time de fora é meu.</li><li data-line="5" class="code-line" style="position: relative;">Alberto: Eu cheguei primeiro.</li><li data-line="6" class="code-line" style="position: relative;">Chico: Minhas ventas.</li><li data-line="7" class="code-line" style="position: relative;">Francisco e Elias: Nós tamo aqui bando de cego, tamo esperando também.</li><li data-line="8" class="code-line" style="position: relative;">Ruan: Bora bando de lezado, vagou aqui, qual dos 4 entra no jogo?</li><li data-line="9" class="code-line" style="position: relative;">Chico: Bora rápido, zerim ou 1.</li><li data-line="10" class="code-line" style="position: relative;">Alberto: Ei moi de chifre, zerim ou um só funciona direito com com 3, bora logo o americano.</li></ul><h3 id="a%C3%A7%C3%A3o" data-line="12" class="code-line" style="font-weight: normal; position: relative; color: rgb(0, 0, 0); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe WPC&quot;, &quot;Segoe UI&quot;, HelveticaNeue-Light, Ubuntu, &quot;Droid Sans&quot;, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">Ação</h3><p data-line="14" class="code-line" style="position: relative; color: rgb(0, 0, 0); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe WPC&quot;, &quot;Segoe UI&quot;, HelveticaNeue-Light, Ubuntu, &quot;Droid Sans&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">No zerim ou um americano cada participante coloca quantos dedos quiser na roda. Um dos participantes soma os dedos e aponta para cada participante enquanto conta. Ganha aquele cujo dedo apontar no último número.</p><p data-line="16" class="code-line" style="position: relative; color: rgb(0, 0, 0); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe WPC&quot;, &quot;Segoe UI&quot;, HelveticaNeue-Light, Ubuntu, &quot;Droid Sans&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">Suponha que existem 4 jogadores. O contador, o jogador 1, aponta pra cima e diz "zero", e então aponta pra si mesmo e diz "um", aponta pro jogador 2 e diz "dois", pro jogador 3 e diz "três", pro jogador 4 e diz "quatro", volta a apontar pra si e diz "cinco" e assim até que os números acabem.</p><h3 id="entrada-e-sa%C3%ADda" data-line="19" class="code-line" style="font-weight: normal; position: relative; color: rgb(0, 0, 0); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe WPC&quot;, &quot;Segoe UI&quot;, HelveticaNeue-Light, Ubuntu, &quot;Droid Sans&quot;, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">Entrada e Saída</h3><ul style="color: rgb(0, 0, 0); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe WPC&quot;, &quot;Segoe UI&quot;, HelveticaNeue-Light, Ubuntu, &quot;Droid Sans&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><li data-line="21" class="code-line" style="position: relative;"><p data-line="21" class="code-line" style="position: relative;">Entrada: Os números dos 4 jogadores, um por linha.</p></li><li data-line="23" class="code-line" style="position: relative;"><p data-line="23" class="code-line" style="position: relative;">Saída: "nenhum" se a soma deu 0, jog1, jog2, jog3 ou jog4.</p></li></ul><h3 id="exemplos" data-line="25" class="code-line" style="font-weight: normal; position: relative; color: rgb(0, 0, 0); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe WPC&quot;, &quot;Segoe UI&quot;, HelveticaNeue-Light, Ubuntu, &quot;Droid Sans&quot;, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">Exemplos</h3><pre style="padding: 16px; border-radius: 3px; overflow: auto; background-color: rgba(220, 220, 220, 0.4); white-space: pre-wrap; color: rgb(0, 0, 0); font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><code data-line="27" class="code-line" style="color: var(--vscode-editor-foreground); font-family: Menlo, Monaco, Consolas, &quot;Droid Sans Mono&quot;, &quot;Courier New&quot;, monospace, &quot;Droid Sans Fallback&quot;; font-size: 14px; line-height: 19px; position: relative;"><code style="color: var(--vscode-editor-foreground); font-family: Menlo, Monaco, Consolas, &quot;Droid Sans Mono&quot;, &quot;Courier New&quot;, monospace, &quot;Droid Sans Fallback&quot;; font-size: 14px; line-height: 19px;"><div>&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+0
+0
+0
+0
+========
+nenhum
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+0
+0
+2
+0
+========
+jog2
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+2
+2
+2
+2
+========
+jog4
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;</div></code></code></pre>
+%%%
+case = 0
+input=0
+0
+0
+0
+output="nenhum"
+grade reduction = 100%
+
+case = 1
+input=1
+0
+0
+0
+output="jog1"
+grade reduction = 100%
+
+case = 2
+input=0
+3
+0
+0
+output="jog3"
+grade reduction = 100%
+
+case = 3
+input=2
+2
+2
+2
+output="jog4"
+grade reduction = 100%
+
+case = 4
+input=1
+1
+1
+1
+output="jog4"
+grade reduction = 100%
+
+case = 5
+input=2
+1
+1
+1
+output="jog1"
+grade reduction = 100%
+
+case = 5
+input=2
+10
+1
+1
+output="jog2"
+grade reduction = 100%
