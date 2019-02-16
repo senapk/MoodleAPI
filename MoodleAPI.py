@@ -5,6 +5,8 @@ import os
 import configparser
 import argparse
 import sys
+import zipfile
+import shutil
 
 class MoodleAPI(object):
     def __init__(self, files, username, password, urlBase, course, section):
@@ -66,6 +68,60 @@ class MoodleAPI(object):
             for activity in activities:
                 id_activity = activity['href'].replace(self.urlBase + '/mod/vpl/view.php?id=','')
                 print('\t %s - %s | %s' % (id_activity, activity.get_text(), activity['href']))
+    def download(self):
+        self.browser.open(self.urlCourse)
+        self.login()
+        
+        soup = BeautifulSoup(self.browser.response().read(), 'html.parser')
+        topics = soup.find('ul', {'class:','topics'})
+        childrens = topics.contents
+
+        if (not os.path.exists('vpls')):
+            os.mkdir('vpls')
+        
+        for section in childrens[1:]:
+            id_section = section['id']
+            desc_section = section['aria-label']
+            print('%s - %s' % (id_section.replace('section-',''), desc_section))
+
+            activities = soup.select('#' + id_section + ' > div.content > ul > li > div > div.mod-indent-outer > div > div.activityinstance > a')
+            for activity in activities:
+                name_folder = 'vpls/'+id_section.replace('section-','') + ' - ' + desc_section 
+                if (not os.path.exists(name_folder)):
+                    os.mkdir(name_folder)
+
+                id_activity = activity['href'].replace(self.urlBase + '/mod/vpl/view.php?id=','')
+                
+                self.browser.open("https://moodle.quixada.ufc.br/course/modedit.php?update="+id_activity)
+                soupActivity       = BeautifulSoup(self.browser.response().read(), 'html.parser')
+                name_activity      = soupActivity.select_one("#id_name")['value']
+                desc_activity      = soupActivity.select_one("#id_introeditor").get_text()
+                descShort_activity = soupActivity.select_one("#id_shortdescription").get_text()
+
+                print('Realizando o download da atividade %s' % name_activity)
+
+                self.browser.open("https://moodle.quixada.ufc.br/mod/vpl/views/downloadexecutionfiles.php?id="+id_activity)
+                arq = open('teste.zip', 'wb')
+                arq.write(self.browser.response().read())
+                arq.close()
+
+                arq_zip = zipfile.ZipFile('teste.zip')
+                arq_zip.extractall('tmp/')
+                arq_zip.close()
+                
+                arq_cases = open('tmp/vpl_evaluate.cases','r')
+                #nameTxt = name_folder+'/'+name_activity.+' @ '+id_activity+'.txt'
+                nameTxt = name_folder+'/'+id_activity+'.txt'
+                arq_activity = open(nameTxt,'w',encoding="utf-8")
+
+                arq_activity.write(name_activity+'\n%%%\n')
+                arq_activity.write(descShort_activity+'\n%%%\n')
+                arq_activity.write(desc_activity+'\n%%%\n')
+                arq_activity.write(arq_cases.read())
+                arq_activity.close()
+                arq_cases.close()
+
+                shutil.rmtree('tmp', ignore_errors=True)               
 
     def setTests(self,vpl):
         try:
@@ -127,6 +183,9 @@ def main_add(args):
 def main_list(args):
     api = MoodleAPI("", args.apiData['login'], args.apiData['senha'], args.apiData['url'], args.apiData['curso'], "")
     api.getAll(args.save)
+def main_get(args):
+    api = MoodleAPI("", args.apiData['login'], args.apiData['senha'], args.apiData['url'], args.apiData['curso'], "")
+    api.download()
 
 def main():
     login = senha = url = curso = ""
@@ -170,6 +229,10 @@ def main():
     parser_list.add_argument('-s', '--save', action="store_true", help="Salvar a lista de atividades em um arquivo")
     parser_list.set_defaults(apiData=cfg.defaults(), func=main_list)
 
+    #get
+    parser_get = subparsers.add_parser('download', help="Realiza o download das atividades do moodle")
+    parser_get.set_defaults(apiData=cfg.defaults(), func=main_get)
+    
     args = parser.parse_args()
 
     global term_width
