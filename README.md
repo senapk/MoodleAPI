@@ -5,6 +5,10 @@ Api de publicação automática de vpl's no moodle
 É necessário primeiro baixar a biblioteca [Mechanize](https://github.com/python-mechanize/mechanize)
 
     pip install mechanize
+
+E tambem a biblioteca [Beautifulsoup4](https://pypi.org/project/beautifulsoup4/)
+
+	pip install beautifulsoup4
  
  Depois é necessário configurar as seguintes variáveis(linha 80) 
 

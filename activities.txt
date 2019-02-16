@@ -1,0 +1,196 @@
+0 - Geral
+	 https://moodle.quixada.ufc.br/mod/folder/view.php?id=20775 - Apostilas Pasta | https://moodle.quixada.ufc.br/mod/folder/view.php?id=20775
+	 https://moodle.quixada.ufc.br/mod/page/view.php?id=20776 - Chats do Whatsapp - Monitoria (Dúvidas, Ajuda, Erros nas Questões) Página | https://moodle.quixada.ufc.br/mod/page/view.php?id=20776
+1 - Operações - Basic
+	 13849 - [ope] L1 - Operacoes Basicas Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13849
+	 13850 - [ope] L1 - Sai fora Baskara Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13850
+	 13851 - [ope] L2 - Mete bala Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13851
+	 21975 - [ope] L2 - Desempenho do Opala Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=21975
+	 19277 - [ope] L3 - Cesta de Chico Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=19277
+	 21974 - [ope] L3 - Casa triangular Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=21974
+	 20709 - [ope] L4 - Zerim ou um americano Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=20709
+	 22129 - L0 - Somando dois números Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=22129
+2 - Seleção - Basic
+	 20799 - [sel] L1 - Angulo Cartesiano - Operador Modular Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=20799
+	 13689 - [sel] L1 - Calculadora Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13689
+	 13691 - [sel] L2 - Quantos são iguais? Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13691
+	 13692 - [sel] L2 - Maior valor Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13692
+	 13812 - [sel] L2 - Arredondar Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13812
+	 20728 - [sel] L2 - OBI 2017 - Fase 1 - Universitário - Game 10 Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=20728
+	 13694 - [sel] L2 - Zerim ou Um! Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13694
+	 13696 - [sel] L2 - Aumento de Salário Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13696
+	 20737 - [sel] L3 - OBI 2017 - Fase 1 - Teleferico Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=20737
+	 13700 - [sel] L3 - Jokenpo das tartarugas! Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13700
+	 22268 - ﻿QUESTAO COM TESTE V12 Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=22268
+	 22269 - ﻿QUESTAO COM TESTE V13 Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=22269
+3 - Seleção - Plus
+	 20964 - [sel] L1 - Divisão Inteira e Quebrada Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=20964
+	 20963 - [sel] L1 - Ambos Divisíveis Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=20963
+	 20965 - [sel] L1 - Positivo, Nulo ou Negativo? Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=20965
+	 20803 - [sel] L2 - Adedonha na Califórnia Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=20803
+	 20764 - [sel] L2 - Cadê a cabeça da cobra Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=20764
+	 20967 - [sel] L2  - Quiz do Harry Potter Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=20967
+	 20966 - [sel] L2 - Mercantil V1 Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=20966
+	 20443 - [sel] L2 - Fiquei de final Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=20443
+	 20753 - [sel] L2 - Bolada na fuça Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=20753
+	 13702 - [sel] L3 - Professor Bonzinho Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13702
+	 20779 - [sel] L3 - Formiga da bundona Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=20779
+	 20739 - [sel] L3 - OBI 2017 - Fase 1 - Drone de Entrega Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=20739
+	 18509 - [sel] L3 - Morre o do meio. Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=18509
+	 20749 - [sel] L3 - Jokenpo 15 Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=20749
+	 13811 - [sel] L3 - A hora do próximo segundo Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13811
+	 20968 - [sel] L3 - Mercantil V2 Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=20968
+	 20969 - [sel] L3 - Está trabalhando ou Não! Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=20969
+	 20970 - [sel] L3 - Rufus e Par ou Impar! Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=20970
+	 20971 - [sel] L4 - Rufus e ordenação! Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=20971
+	 20972 - [sel] L4 - Dormir Tarde Acordar Cedo! Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=20972
+4 - Repetição - Basic
+	 13711 - [rep] L1 - Somatorio V2 Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13711
+	 13710 - [rep] L1 - Zero é par - Somatório de Pares! Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13710
+	 19052 - [rep] L2 - Ônibus Lotado Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=19052
+	 13718 - [rep] L2 - Cabo de Guerra Jedi Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13718
+	 20982 - [rep] L2 - Quebrador de Copos Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=20982
+	 20878 - [rep] L2 - Sapinho no poço Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=20878
+	 21025 - [rep] L2 - Castelos de cubos Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=21025
+	 13724 - [rep] L3 - Arremesso de pedra na lua Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13724
+	 20768 - [rep] L3 - Hoje tem sopa de coelho? Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=20768
+	 21021 - [rep] L3 - OBI 2016 - Fuga em helicóptero Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=21021
+5 - Repetição - Plus
+	 13714 - [rep] L1 - Quantos Ultrons você vê - Contar Elemento Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13714
+	 13712 - [rep] L1 - Calça Zeze de Camargo - Mínimo Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13712
+	 13717 - [rep] L2 - Revolta em Portugal Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13717
+	 13719 - [rep] L2 - Busca Intervalada Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13719
+	 20882 - [rep] L3 - Sapinho morrendo no poço Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=20882
+	 20973 - [rep] L3 - Blackjack 21! Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=20973
+	 13721 - [rep] L3 - Conta Dígitos Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13721
+	 20883 - [rep] L4 - Sapinho matemático não morrendo no poço Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=20883
+	 13727 - [rep] L4 - Spok Palíndromo Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13727
+6 - Vetores
+	 13730 - [vet] L1 - Joelison Fernandes - Soma do maior e menor! Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13730
+	 18788 - [vet] L2 - Queda de dominós Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=18788
+	 13734 - [vet] L2 - Capoeira invertendo vetor! Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13734
+	 13732 - [vet] L2 - Organizando a fila do RU - Separar Pares e Ímpares! Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13732
+	 13739 - [vet] L3 - Zoo quantas especies! Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13739
+	 13742 - [vet] L3 - Cabeças vão rolar Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13742
+	 13741 - [vet] L3 - Mário e o Assassins Creed - Parkour Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13741
+	 13733 - [vet] L2 - Soldados Pequenos e Grandes! Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13733
+	 13743 - [vet] L3 - Batida Policial - Ordenando vetores Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13743
+	 20736 - [vet] L3 - OBI 2017 - Fase 1 - Botas Trocadas Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=20736
+	 20804 - [vet] L3 - Abastecimento de água Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=20804
+	 20738 - [vet] L4 - OBI 2017 - Fase 1 - O segredo do Cofre Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=20738
+7 - Vetores - Plus
+	 13736 - [vet] L3 - Mercantil V3 Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13736
+	 13737 - [vet] L3 - Jogo do Avesso Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13737
+	 13738 - [vet] L3 - Jogo do Avesso V2 Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13738
+	 13740 - [vet] L3 - Baruel Ruel trocando figurinhas! Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13740
+	 13744 - [vet] L3 - Loucura de Marquinhos - Decompor um inteiro Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13744
+	 13745 - [vet] L3 - As unhas de Luiza - Vetor para inteiro Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13745
+	 13746 - [vet] L3 - Anfíbios e Batráquios - Está contido Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13746
+	 13747 - [vet] L3 - Zoologico Um animal de cada tipo! Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13747
+	 13748 - [vet] L3 - Exercito - Homens desconcentrados Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13748
+	 13750 - [vet] L4 - Coleção de Tazos - Quantos se repetem mais Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13750
+	 13751 - [vet] L4 - Zoologico Entrando na Arca de Noé Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13751
+	 13752 - [vet] L4 - Se fosse a mediana eu tinha passado! Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13752
+	 13753 - [vet] L4 - Mega Jokenpo! Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13753
+	 13825 - [math] Primo Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13825
+	 13826 - [math] MMC Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13826
+8 - String - Basic
+	 13762 - [char] L1 - Eribelton e a Ascologia V1 - Somar Asc Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13762
+	 13757 - [char] L1 - Valdiskey e a cifra V1! Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13757
+	 13768 - [char] L3 - Separando tokens Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13768
+	 13772 - [str] L1 - Substring na decoração - Obter Substrings! Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13772
+	 13770 - [str] L1 - Marileuza e as Alcaparras - Contar Ocorrencias! Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13770
+	 13771 - [str] L1 - LP da Xura - Inverter String! Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13771
+	 13776 - [str] L2 - Gritando em Caixa Alta - Invertendo o Case da frase! Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13776
+	 13778 - [str] L2 - Vogais e Consoantes - Identificação e Montagem! Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13778
+	 13777 - [str] L2 - Avestruz com Alcaparras - Contar Maiusculas e Minusculas! Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13777
+	 13780 - [str] L2 - Contar Leds Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13780
+	 13779 - [str] L2 - Gagueira V1 - Duplicar Palavras Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13779
+	 13789 - [str] L3 - Jason e Krueguer - busca de maior ocorrencia Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13789
+	 13791 - [str] L3 - Francês é Fresco - Juntar palavras Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13791
+	 13783 - [str] L3 - Jack Sparrow e o Beijinho - Alternar Case Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13783
+	 13790 - [str] L3 - Prof Muquirana - Busca máximo por critério Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13790
+	 13792 - [str] L3 - Meu cachorro comeu minha tarefa V2 - Retirar espaços duplicados Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13792
+	 13799 - [str] L4 - Separe Pneumatocito - Separação de Palavras! Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13799
+9 - String - Plus
+	 13759 - [char] L3 - Valdiskley e cifras históricas! Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13759
+	 13758 - [char] L2 - Valdiskley e a cifra V2! Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13758
+	 13760 - [char] L4 - Valdiskley e a Cifra v3! Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13760
+	 13764 - [char] L3 - Eribelton e a Ascologia V3 - Busca do mínimo Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13764
+	 13766 - [char] L2 - Somando numeros Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13766
+	 13767 - [char] L3 - Identificando elementos Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13767
+	 13774 - [str] L2 - Organizando Ru - Homens e Mulheres! Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13774
+	 13781 - [str] L2 - Meu cachorro comeu minha tarefa - Retirar espaços Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13781
+	 13785 - [str] L3 - Rocicleia e o Locioreca - Anagramas! Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13785
+	 13786 - [str] L3 - MeU WoRd QuEbRoU - Formatação de Case! Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13786
+	 13787 - [str] L3 - Máquina de Datilografar Quebrada Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13787
+	 13788 - [str] L3 - Roda Roda Jequiti - Jogo da Forca! Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13788
+	 13793 - [str] L3 - Identificando Ultrons V2 Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13793
+	 13794 - [str] L3 - Aniquilando Ultrons V3 Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13794
+	 13796 - [str] L4 - Matéria e Antimatéia - Colisão entre palavras! Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13796
+	 13797 - [str] L4 - Gansos Gamados - Verificar ordenação da frase! Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13797
+	 13798 - [str] L4 - Mário e o Assassins Creed - Cenário Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13798
+	 13800 - [str] L4 - Nao se bububula - Gagueira V2! Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13800
+	 13801 - [str] L4 - Sorvete suor casaca chicletes - Letras em Comum! Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13801
+	 13802 - [str] L4 - Conversa de Traficantes - Substituições de substrings Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13802
+	 13755 - [char] L1 - Maiúsculo, Minusculo e Dígito! Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13755
+	 13763 - [char] L2 - Eribelton e a Ascologia V2 - Buscando a perfeição Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13763
+	 13775 - [str] L2 -  Numerão Divisível por 11 Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13775
+	 20765 - [str] L2 - Crushômetro Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=20765
+	 13784 - [str] L3 - Amo a Amora meu Amor - Contar Substrings! Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13784
+10 - Matrizes
+	 15383 - [mat] Caça-Palavras Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=15383
+	 13803 - [mat] Soma de elementos em uma matriz Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13803
+	 18910 - [mat] L3 - Campo Minado Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=18910
+11 - Matrizes - Plus
+	 13806 - [mat] Bingo Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13806
+	 13804 - [mat] Matriz Simétrica Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13804
+	 13805 - [mat] Subdiagonais Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13805
+	 13807 - [mat] Soldados em posição Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13807
+	 13808 - [mat] Quadrado Mágico Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13808
+12 - Operações - Plus
+13 - Math
+	 13814 - [math] Inteiro aleatório entre X e Y Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13814
+	 13815 - [math] Random no vetor Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13815
+	 13816 - [math] Embaralhar Vetor Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13816
+	 13817 - [math] Embaralhar Texto Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13817
+	 13827 - [math] MMC de vários números. Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13827
+	 20441 - [c][str] Contando caracteres recursivamente Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=20441
+14 - Exercícios de Linguagem - Python
+	 20782 - [str] Guerra Civil no Universo Marvel Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=20782
+15 - Tópico 15
+	 20884 - [rec] Números de Fibonacci Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=20884
+	 20885 - [aloc] Vetor de strings com tamanhos variados Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=20885
+	 20886 - [pont] Troca de valores de variáveis Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=20886
+	 20887 - [pont] Função que retorna vários valores por referência Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=20887
+	 20888 - [rec] Contando caracteres recursivamente Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=20888
+	 20889 - [rec] Torres de Hanoi Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=20889
+	 20890 - [dict] Duelo Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=20890
+	 20891 - [dict] Expressão Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=20891
+	 20892 - [dict] Operações Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=20892
+	 20893 - [mat] Soma de matrizes Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=20893
+	 20751 - [rec] Números de Fibonacci Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=20751
+	 20752 - [aloc] Vetor de strings com tamanhos variados Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=20752
+	 20766 - [pont] Troca de valores de variáveis Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=20766
+	 20767 - [pont] Função que retorna vários valores por referência Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=20767
+	 20769 - [rec] Contando caracteres recursivamente Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=20769
+	 20770 - [rec] Torres de Hanoi Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=20770
+	 20771 - [dict] Duelo Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=20771
+	 20772 - [dict] Expressão Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=20772
+	 20773 - [dict] Operações Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=20773
+	 20774 - [mat] Soma de matrizes Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=20774
+16 - Questões em Construção
+	 21873 - [sel] L1 - OBI 2015 - Fase 2 - Nível 1 - Impedido! Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=21873
+	 21874 - [str] L4 - OBI 2015 - Fase 2 - Nível 1 - Letras Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=21874
+	 21875 - [mat] L3 - OBI 2015 - Fase 2 - Nível 1 - Torre Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=21875
+	 21876 -  [mat] L3 - OBI 2015 - Fase 2 - Nível Júnior - Código Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=21876
+	 21877 - Shell Poo Test Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=21877
+	 21878 - [sel] L1 - OBI 2016 - Fase1 - Nível 1 - Plantação de Morangos! Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=21878
+	 21879 - [sel] L1 - OBI 2016 - Fase1 - Nível 1 - Jogo de par ou ímpar Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=21879
+	 21880 - t Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=21880
+	 21889 - [SEL] Frota de Táxi - OBI 2005 Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=21889
+	 21890 - [REP] Trilhas - OBI 2005 Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=21890
+	 21891 - [MAT] Campo de Minhocas - OBI 2005 Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=21891
+	 21892 - [REP] Bafo - OBI 2005 Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=21892
+	 21893 - [REP] Vivo ou Morto - OBI 2005 Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=21893
+	 21894 - [REP] Mini-Poker - OBI2005 Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=21894
