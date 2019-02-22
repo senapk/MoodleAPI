@@ -4,12 +4,12 @@
 1 - Operações - Basic
 	 13849 - [ope] L1 - Operacoes Basicas Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13849
 	 13850 - [ope] L1 - Sai fora Baskara Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13850
+	 22653 - [ope][QX0011] L2 - Formatando data (Zeros à esquerda). Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=22653
 	 13851 - [ope] L2 - Mete bala Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13851
 	 21975 - [ope] L2 - Desempenho do Opala Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=21975
 	 19277 - [ope] L3 - Cesta de Chico Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=19277
 	 21974 - [ope] L3 - Casa triangular Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=21974
 	 20709 - [ope] L4 - Zerim ou um americano Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=20709
-	 22129 - L0 - Somando dois números Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=22129
 2 - Seleção - Basic
 	 20799 - [sel] L1 - Angulo Cartesiano - Operador Modular Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=20799
 	 13689 - [sel] L1 - Calculadora Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13689
@@ -21,8 +21,6 @@
 	 13696 - [sel] L2 - Aumento de Salário Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13696
 	 20737 - [sel] L3 - OBI 2017 - Fase 1 - Teleferico Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=20737
 	 13700 - [sel] L3 - Jokenpo das tartarugas! Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13700
-	 22268 - ﻿QUESTAO COM TESTE V12 Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=22268
-	 22269 - ﻿QUESTAO COM TESTE V13 Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=22269
 3 - Seleção - Plus
 	 20964 - [sel] L1 - Divisão Inteira e Quebrada Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=20964
 	 20963 - [sel] L1 - Ambos Divisíveis Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=20963
@@ -113,15 +111,18 @@
 	 13792 - [str] L3 - Meu cachorro comeu minha tarefa V2 - Retirar espaços duplicados Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13792
 	 13799 - [str] L4 - Separe Pneumatocito - Separação de Palavras! Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13799
 9 - String - Plus
+	 13755 - [char] L1 - Maiúsculo, Minusculo e Dígito! Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13755
 	 13759 - [char] L3 - Valdiskley e cifras históricas! Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13759
 	 13758 - [char] L2 - Valdiskley e a cifra V2! Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13758
 	 13760 - [char] L4 - Valdiskley e a Cifra v3! Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13760
-	 13764 - [char] L3 - Eribelton e a Ascologia V3 - Busca do mínimo Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13764
+	 20782 - [str] L2 - Guerra Civil no Universo Marvel Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=20782
 	 13766 - [char] L2 - Somando numeros Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13766
 	 13767 - [char] L3 - Identificando elementos Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13767
+	 13763 - [char] L2 - Eribelton e a Ascologia V2 - Buscando a perfeição Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13763
 	 13774 - [str] L2 - Organizando Ru - Homens e Mulheres! Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13774
 	 13781 - [str] L2 - Meu cachorro comeu minha tarefa - Retirar espaços Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13781
 	 13785 - [str] L3 - Rocicleia e o Locioreca - Anagramas! Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13785
+	 13764 - [char] L3 - Eribelton e a Ascologia V3 - Busca do mínimo Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13764
 	 13786 - [str] L3 - MeU WoRd QuEbRoU - Formatação de Case! Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13786
 	 13787 - [str] L3 - Máquina de Datilografar Quebrada Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13787
 	 13788 - [str] L3 - Roda Roda Jequiti - Jogo da Forca! Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13788
@@ -133,8 +134,6 @@
 	 13800 - [str] L4 - Nao se bububula - Gagueira V2! Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13800
 	 13801 - [str] L4 - Sorvete suor casaca chicletes - Letras em Comum! Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13801
 	 13802 - [str] L4 - Conversa de Traficantes - Substituições de substrings Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13802
-	 13755 - [char] L1 - Maiúsculo, Minusculo e Dígito! Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13755
-	 13763 - [char] L2 - Eribelton e a Ascologia V2 - Buscando a perfeição Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13763
 	 13775 - [str] L2 -  Numerão Divisível por 11 Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13775
 	 20765 - [str] L2 - Crushômetro Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=20765
 	 13784 - [str] L3 - Amo a Amora meu Amor - Contar Substrings! Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13784
@@ -157,7 +156,6 @@
 	 13827 - [math] MMC de vários números. Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=13827
 	 20441 - [c][str] Contando caracteres recursivamente Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=20441
 14 - Exercícios de Linguagem - Python
-	 20782 - [str] Guerra Civil no Universo Marvel Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=20782
 15 - Tópico 15
 	 20884 - [rec] Números de Fibonacci Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=20884
 	 20885 - [aloc] Vetor de strings com tamanhos variados Laboratório Virtual de Programação | https://moodle.quixada.ufc.br/mod/vpl/view.php?id=20885

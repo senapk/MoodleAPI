@@ -1,3 +1,13 @@
+'''
+TODO: REALIZAR O RM DE QUESTÕES POR ID[MOODLEAPI.py rm 22862]
+        https://moodle.quixada.ufc.br/course/mod.php?delete=22266&confirm=1
+        https://moodle.quixada.ufc.br/course/mod.php?sesskey=psSlekP7ko&sr=0&delete=22266&confirm=1
+TODO: DOWNLOAD -> INCLUIR TODOS OS ARQUIVOS DE TMP NO TXT
+TODO: ADD/UPDATE -> INSERIR A CONFIGURAÇÃO DE DATA DE LIMITE DA QUESTÃO
+TODO: UPDATE -> CORRIGIR BUG DOS CASOS DE TESTES NÃO ESTAREM SENDO ENVIADOS
+TODO: REMOVER TODAS AS URLS ESTÁTICAS DO CÓDIGO E CENTRALIZA-LAS NA CLASSE MOODLEAPI
+TODO: INCLUIR EXCEPTIONS
+'''
 from bs4 import BeautifulSoup
 import mechanize
 import json
@@ -20,6 +30,7 @@ class MoodleAPI(object):
         self.urlNewVpl    = urlBase + "/course/modedit.php?add=vpl&type=&course=" + course + "&section=" + section + "&return=0&sr=0"
         self.urlNewTest   = urlBase + "/mod/vpl/forms/testcasesfile.php?id=ID_QUESTAO&edit=3"
         self.urlTestSave  = urlBase + "/mod/vpl/forms/testcasesfile.json.php?id=ID_QUESTAO&action=save"
+        self.urlFilesSave = urlBase + '/mod/vpl/forms/executionfiles.json.php?id=22862&action=save'
         self.vpls         = []
         self.browser      = mechanize.Browser()
         self.browser.set_handle_robots(False)
@@ -36,7 +47,6 @@ class MoodleAPI(object):
         self.browser.open(self.urlNewVpl)
         self.login()
         print("Enviando a questão %s para a seção %s" % (vpl.name, self.section))
-        print(self.browser.title())
 
         self.browser.select_form(action='modedit.php')
         self.browser['name'] = vpl.name
@@ -108,7 +118,7 @@ class MoodleAPI(object):
                 arq_zip = zipfile.ZipFile('teste.zip')
                 arq_zip.extractall('tmp/')
                 arq_zip.close()
-                
+
                 arq_cases = open('tmp/vpl_evaluate.cases','r')
                 #nameTxt = name_folder+'/'+name_activity.+' @ '+id_activity+'.txt'
                 nameTxt = name_folder+'/'+id_activity+'.txt'
@@ -122,7 +132,26 @@ class MoodleAPI(object):
                 arq_cases.close()
 
                 shutil.rmtree('tmp', ignore_errors=True)               
+    def update(self, id_questao, vpl):
+        self.browser.open('https://moodle.quixada.ufc.br/course/modedit.php?update='+id_questao)
+        self.login()
+        print("Atualizando a questão %s" % (vpl.name))
 
+        self.browser.select_form(action='modedit.php')
+        self.browser['name'] = vpl.name
+        self.browser['shortdescription'] = vpl.shortdescription
+        self.browser['introeditor[text]'] = vpl.description
+        self.browser.submit()
+        print(self.browser.title())
+
+        params = {'files':vpl.executionFiles,
+                  'comments':''}
+        files = json.dumps(params, default=self.__dumper, indent=2)
+
+        self.browser.open(self.urlFilesSave, 
+                               data=files)
+            
+        print("Questão atualizada com sucesso!!")    
     def setTests(self,vpl):
         try:
             self.browser.open(self.urlNewTest.replace("ID_QUESTAO", vpl.id))
@@ -141,9 +170,20 @@ class MoodleAPI(object):
                 files = [os.path.join(self.files[0], f) for f in os.listdir(self.files[0])]
 
             for f in files:
+                executionFiles = []
+
                 arq = open(f, 'r', encoding="utf-8")
                 txt = arq.read().split("%%%")
-                self.vpls.append(VPL(txt[0].strip(), txt[1].strip(), txt[2].strip(), txt[3].strip()))
+                lastLine = txt[len(txt) - 1]
+                indexExecutionFiles = lastLine.find('---\n')
+    
+                if(indexExecutionFiles > 0):
+                    sub = lastLine[indexExecutionFiles + 4:] #Remover o primeiro ---\n
+                    execFiles = ''.join(sub).split('---\n')
+                    lastLine = lastLine[:indexExecutionFiles]
+                    executionFiles = [ExecutionFile(l) for l in execFiles]
+    
+                self.vpls.append(VPL(txt[0].strip(), txt[1].strip(), txt[2].strip(), lastLine.strip(), executionFiles))
                 arq.close()
         except FileNotFoundError as e:
             print(e)       
@@ -154,6 +194,11 @@ class MoodleAPI(object):
             if l.text.replace(" Laboratório Virtual de Programação","") == vpl.name:
                 vpl.id = l.url.replace("https://moodle.quixada.ufc.br/mod/vpl/view.php?id=","")
                 return vpl.id            
+    def __dumper(self, obj):
+        try:
+            return obj.toJSON()
+        except:
+            return obj.__dict__
     def __formatPayloadCaseTests(self, tests):
         params = {'files':[
                     {'name':'vpl_evaluate.cases',
@@ -164,29 +209,46 @@ class MoodleAPI(object):
                  }
         return json.dumps(params)
 class VPL(object):
-    def __init__(self, name, shortdescription, description, tests):
+    def __init__(self, name, shortdescription, description, tests, executionFiles):
         self.id               = ""
         self.name             = name
         self.shortdescription = shortdescription
         self.description      = description
         self.tests            = tests
+        self.executionFiles   = executionFiles
     def __str__(self):
-        return "Id: %i\nDescrição: %s \nDescrição breve: %s \nDescrição: %s\nTestes: %s " % (self.id, self.name, self.shortdescription, self.description, self.tests)
+        return "Id: %s\nDescrição: %s \nDescrição breve: %s \nDescrição: %s\nTestes: %s\nExecutionFiles: %s " % (self.id, self.name, self.shortdescription, self.description, self.tests, self.ExecutionFiles)
     __repr__ = __str__
-
+    
+class ExecutionFile(object):
+    def __init__(self, strFile):
+        self.name     = ''
+        self.contents = '',
+        self.encoding = 0
+        self.__loadFile(strFile)
+    def __loadFile(self, strFile):
+        aux = strFile.split('\n')
+        self.name     = aux[0]
+        self.contents = '\n'.join(aux[1:]).strip()
+    def __str__(self):
+        return "{'Name': '%s','Contents': '%s','Encoding': %d}" % (self.name, self.contents, self.encoding)
+    __repr__ = __str__
 def main_add(args):
     api = MoodleAPI(args.questoes, args.apiData['login'], args.apiData['senha'], args.apiData['url'], args.apiData['curso'], args.section)
     api.loadFiles()
     for v in api.vpls:
         api.addVpl(v)
-
 def main_list(args):
     api = MoodleAPI("", args.apiData['login'], args.apiData['senha'], args.apiData['url'], args.apiData['curso'], "")
     api.getAll(args.save)
-def main_get(args):
+def main_download(args):
     api = MoodleAPI("", args.apiData['login'], args.apiData['senha'], args.apiData['url'], args.apiData['curso'], "")
     api.download()
-
+def main_update(args):
+    api = MoodleAPI(args.questoes, args.apiData['login'], args.apiData['senha'], args.apiData['url'], args.apiData['curso'], "")
+    api.loadFiles()
+    for v in api.vpls:        
+        api.update(args.id_questao, v)
 def main():
     login = senha = url = curso = ""
     cfg = configparser.ConfigParser()
@@ -229,10 +291,16 @@ def main():
     parser_list.add_argument('-s', '--save', action="store_true", help="Salvar a lista de atividades em um arquivo")
     parser_list.set_defaults(apiData=cfg.defaults(), func=main_list)
 
-    #get
-    parser_get = subparsers.add_parser('download', help="Realiza o download das atividades do moodle")
-    parser_get.set_defaults(apiData=cfg.defaults(), func=main_get)
-    
+    #download
+    parser_download = subparsers.add_parser('download', help="Realiza o download das atividades do moodle")
+    parser_download.set_defaults(apiData=cfg.defaults(), func=main_download)
+
+    #update
+    parser_update = subparsers.add_parser('update', help="Realiza o update de atividades do moodle")
+    parser_update.add_argument('id_questao', type=str, action='store', help='Id da questão a ser atualizada')
+    parser_update.add_argument('questoes', type=str, nargs='+', action='store', help='Pacote de questões')
+    parser_update.set_defaults(apiData=cfg.defaults(), func=main_update)
+
     args = parser.parse_args()
 
     global term_width

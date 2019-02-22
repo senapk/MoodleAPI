@@ -21,6 +21,15 @@ E tambem a biblioteca [Beautifulsoup4](https://pypi.org/project/beautifulsoup4/)
 	    Descrição da questão
 	    %%%
 	    Casos de teste
+		---
+		NOME_ARQUIVO_01
+		CONTEUDO_ARQUIVO_01
+		---
+		NOME_ARQUIVO_02
+		CONTEUDO_ARQUIVO_02
+		---
+		NOME_ARQUIVO_N
+		CONTEUDO_ARQUIVO_N
 - Seu usuário do moodle
 - Sua senha do moodle
 - Modificar o editor padrão do moodle para *Área de texto simples* **(Meu Perfi > Modificar Perfil > Preferências > editor de texto)**
