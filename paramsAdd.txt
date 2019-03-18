@@ -1,0 +1,45 @@
+#mform1 > div:style = display: none;
+completionunlocked	1
+course	344
+coursemodule	
+section	16
+module	23
+modulename	vpl
+instance	
+add	vpl
+update	0
+return	0
+sr	0
+sesskey	puqBq2RYiT
+_qf__mod_vpl_mod_form	1
+mform_showmore_id_submissionperiod	0
+mform_showmore_id_submissionrestrictions	0
+mform_isexpanded_id_general	1
+mform_isexpanded_id_submissionperiod	1
+mform_isexpanded_id_submissionrestrictions	0
+mform_isexpanded_id_modstandardgrade	0
+mform_isexpanded_id_modstandardelshdr	0
+mform_isexpanded_id_availabilityconditionsheader	0
+mform_isexpanded_id_activitycompletionheader	0
+name	NOME
+shortdescription	DESCRIÇÃO+BREVE
+introeditor[text]	DESCRIÇÃO+COMPLETA
+introeditor[format]	1
+introeditor[itemid]	665632087
+maxfiles	1
+worktype	0
+restrictededitor	0
+example	0
+maxfilesize	0
+password	
+requirednet	
+grade[modgrade_type]	point
+grade[modgrade_point]	100
+gradecat	1084
+visiblegrade	1
+visible	1
+cmidnumber	
+groupingid	0
+availabilityconditionsjson	{"op":"&","c":[],"showc":[]}
+completion	1
+submitbutton	Salvar+e+mostrar
