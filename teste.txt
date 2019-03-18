@@ -1,0 +1,112 @@
+<input name="completionunlocked" type="hidden" value="1"/>
+{'name': 'completionunlocked', 'type': 'hidden', 'value': '1'}
+1
+<input name="course" type="hidden" value="344"/>
+{'name': 'course', 'type': 'hidden', 'value': '344'}
+344
+<input name="coursemodule" type="hidden" value=""/>
+{'name': 'coursemodule', 'type': 'hidden', 'value': ''}
+
+<input name="section" type="hidden" value="0"/>
+{'name': 'section', 'type': 'hidden', 'value': '0'}
+0
+<input name="module" type="hidden" value="23"/>
+{'name': 'module', 'type': 'hidden', 'value': '23'}
+23
+<input name="modulename" type="hidden" value="vpl"/>
+{'name': 'modulename', 'type': 'hidden', 'value': 'vpl'}
+vpl
+<input name="instance" type="hidden" value=""/>
+{'name': 'instance', 'type': 'hidden', 'value': ''}
+
+<input name="add" type="hidden" value="vpl"/>
+{'name': 'add', 'type': 'hidden', 'value': 'vpl'}
+vpl
+<input name="update" type="hidden" value="0"/>
+{'name': 'update', 'type': 'hidden', 'value': '0'}
+0
+<input name="return" type="hidden" value="0"/>
+{'name': 'return', 'type': 'hidden', 'value': '0'}
+0
+<input name="sr" type="hidden" value="0"/>
+{'name': 'sr', 'type': 'hidden', 'value': '0'}
+0
+<input name="sesskey" type="hidden" value="v3QZDGX5sQ"/>
+{'name': 'sesskey', 'type': 'hidden', 'value': 'v3QZDGX5sQ'}
+v3QZDGX5sQ
+<input name="_qf__mod_vpl_mod_form" type="hidden" value="1"/>
+{'name': '_qf__mod_vpl_mod_form', 'type': 'hidden', 'value': '1'}
+1
+<input name="mform_showmore_id_submissionperiod" type="hidden" value="0"/>
+{'name': 'mform_showmore_id_submissionperiod', 'type': 'hidden', 'value': '0'}
+0
+<input name="mform_showmore_id_submissionrestrictions" type="hidden" value="0"/>
+{'name': 'mform_showmore_id_submissionrestrictions', 'type': 'hidden', 'value': '0'}
+0
+<input name="mform_isexpanded_id_general" type="hidden" value="1"/>
+{'name': 'mform_isexpanded_id_general', 'type': 'hidden', 'value': '1'}
+1
+<input name="mform_isexpanded_id_submissionperiod" type="hidden" value="0"/>
+{'name': 'mform_isexpanded_id_submissionperiod', 'type': 'hidden', 'value': '0'}
+0
+<input name="mform_isexpanded_id_submissionrestrictions" type="hidden" value="0"/>
+{'name': 'mform_isexpanded_id_submissionrestrictions', 'type': 'hidden', 'value': '0'}
+0
+<input name="mform_isexpanded_id_modstandardgrade" type="hidden" value="0"/>
+{'name': 'mform_isexpanded_id_modstandardgrade', 'type': 'hidden', 'value': '0'}
+0
+<input name="mform_isexpanded_id_modstandardelshdr" type="hidden" value="0"/>
+{'name': 'mform_isexpanded_id_modstandardelshdr', 'type': 'hidden', 'value': '0'}
+0
+<input name="mform_isexpanded_id_availabilityconditionsheader" type="hidden" value="0"/>
+{'name': 'mform_isexpanded_id_availabilityconditionsheader', 'type': 'hidden', 'value': '0'}
+0
+<input name="mform_isexpanded_id_activitycompletionheader" type="hidden" value="0"/>
+{'name': 'mform_isexpanded_id_activitycompletionheader', 'type': 'hidden', 'value': '0'}
+0
+<input id="id_name" name="name" onblur="validate_mod_vpl_mod_form_name(this)" onchange="validate_mod_vpl_mod_form_name(this)" size="50" type="text"/>
+{'size': '50', 'name': 'name', 'type': 'text', 'onblur': 'validate_mod_vpl_mod_form_name(this)', 'onchange': 'validate_mod_vpl_mod_form_name(this)', 'id': 'id_name'}
+Don't have
+<input name="introeditor[itemid]" type="hidden" value="374275330"/>
+{'type': 'hidden', 'name': 'introeditor[itemid]', 'value': '374275330'}
+374275330
+<input id="id_showdescription" name="showdescription" type="checkbox" value="1"/>
+{'name': 'showdescription', 'type': 'checkbox', 'value': '1', 'id': 'id_showdescription'}
+1
+<input id="id_startdate_enabled" name="startdate[enabled]" type="checkbox" value="1"/>
+{'name': 'startdate[enabled]', 'type': 'checkbox', 'value': '1', 'id': 'id_startdate_enabled'}
+1
+<input checked="checked" id="id_duedate_enabled" name="duedate[enabled]" type="checkbox" value="1"/>
+{'name': 'duedate[enabled]', 'type': 'checkbox', 'value': '1', 'checked': 'checked', 'id': 'id_duedate_enabled'}
+1
+<input id="id_maxfiles" name="maxfiles" type="text" value="1"/>
+{'name': 'maxfiles', 'type': 'text', 'value': '1', 'id': 'id_maxfiles'}
+1
+<input autocomplete="off" id="id_password" name="password" type="password"/>
+{'autocomplete': 'off', 'name': 'password', 'type': 'password', 'id': 'id_password'}
+Don't have
+<input id="id_requirednet" name="requirednet" size="60" type="text" value=""/>
+{'size': '60', 'name': 'requirednet', 'type': 'text', 'value': '', 'id': 'id_requirednet'}
+
+<input id="id_modgrade_point" name="grade[modgrade_point]" type="text" value="100"/>
+{'name': 'grade[modgrade_point]', 'type': 'text', 'id': 'id_modgrade_point', 'value': '100'}
+100
+<input id="id_cmidnumber" name="cmidnumber" type="text"/>
+{'name': 'cmidnumber', 'type': 'text', 'id': 'id_cmidnumber'}
+Don't have
+<input id="id_completionusegrade" name="completionusegrade" type="checkbox" value="1"/>
+{'name': 'completionusegrade', 'type': 'checkbox', 'value': '1', 'id': 'id_completionusegrade'}
+1
+<input id="id_completionexpected_enabled" name="completionexpected[enabled]" type="checkbox" value="1"/>
+{'name': 'completionexpected[enabled]', 'type': 'checkbox', 'value': '1', 'id': 'id_completionexpected_enabled'}
+1
+<input id="id_submitbutton2" name="submitbutton2" type="submit" value="Salvar e voltar ao curso"/>
+{'name': 'submitbutton2', 'value': 'Salvar e voltar ao curso', 'type': 'submit', 'id': 'id_submitbutton2'}
+Salvar e voltar ao curso
+<input id="id_submitbutton" name="submitbutton" type="submit" value="Salvar e mostrar"/>
+{'name': 'submitbutton', 'value': 'Salvar e mostrar', 'type': 'submit', 'id': 'id_submitbutton'}
+Salvar e mostrar
+<input class="btn-cancel" id="id_cancel" name="cancel" onclick="skipClientValidation = true; return true;" type="submit" value="Cancelar"/>
+{'name': 'cancel', 'value': 'Cancelar', 'type': 'submit', 'onclick': 'skipClientValidation = true; return true;', 'class': ['btn-cancel'], 'id': 'id_cancel'}
+Cancelar
+{}

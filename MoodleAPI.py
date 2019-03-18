@@ -79,7 +79,31 @@ class MoodleAPI(object):
                 id_activity = activity['href'].replace(self.urlBase + '/mod/vpl/view.php?id=','')
                 print('\t %s - %s | %s' % (id_activity, activity.get_text(), activity['href']))
     def download(self):
-        self.browser.open(self.urlCourse)
+        self.browser.open(self.urlNewVpl)
+        self.login()
+        soup = BeautifulSoup(self.browser.response().read(), 'html.parser')
+
+        arq = open('teste.txt', 'w')
+        sys.stdout = arq 
+        #fields = soup.select('form input,textarea,select')
+        fields = soup.select('form input')
+
+        params = {}
+
+        for f in fields:
+            #params[f['name']] = f['value']
+            print(f)
+            print(f.attrs)
+            if 'value' in f.attrs.keys():
+                print(f['value'])
+            else:
+                print("Don't have")
+
+        print(params)
+        arq.close()
+
+
+        '''self.browser.open(self.urlCourse)
         self.login()
         
         soup = BeautifulSoup(self.browser.response().read(), 'html.parser')
@@ -131,7 +155,8 @@ class MoodleAPI(object):
                 arq_activity.close()
                 arq_cases.close()
 
-                shutil.rmtree('tmp', ignore_errors=True)               
+                shutil.rmtree('tmp', ignore_errors=True)
+        '''               
     def update(self, id_questao, vpl):
         self.browser.open('https://moodle.quixada.ufc.br/course/modedit.php?update='+id_questao)
         self.login()
