@@ -1,0 +1,19 @@
+{
+    "title": "@002 #4_fun Faca a função soma",
+    "description": "<!DOCTYPE html>\n<html xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"\" xml:lang=\"\">\n<head>\n  <meta charset=\"utf-8\" />\n  <meta name=\"generator\" content=\"pandoc\" />\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, user-scalable=yes\" />\n  <title>Readme</title>\n  <style>\n      code{white-space: pre-wrap;}\n      span.smallcaps{font-variant: small-caps;}\n      span.underline{text-decoration: underline;}\n      div.column{display: inline-block; vertical-align: top; width: 50%;}\n  </style>\n  <!--[if lt IE 9]>\n    <script src=\"//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js\"></script>\n  <![endif]-->\n</head>\n<body>\n<h2 id=\"fun-faca-a-função-soma\"><span class=\"citation\" data-cites=\"001\">@001</span> #4_fun Faca a função soma</h2>\n<p>Leia dois números um por linha e faça a função soma.</p>\n<blockquote>\n<blockquote>\n<blockquote>\n<blockquote>\n<blockquote>\n<blockquote>\n<blockquote>\n<blockquote>\n<p>3 2 ======== 5 <<<<<<<<</p>\n</blockquote>\n</blockquote>\n</blockquote>\n</blockquote>\n</blockquote>\n</blockquote>\n</blockquote>\n</blockquote>\n</body>\n</html>\n",
+    "executionFiles": [
+      { 
+        "name": "vpl_execution.cases",
+        "contents": "case=01\ninput=1\n2\noutput=\"3\n\"\ngrade reduction=100%\n\n\ncase=02\ninput=3\n2\noutput=\"5\n\"\ngrade reduction=100%\n"
+      },
+      { 
+        "name": "vpl_run.sh",
+        "contents": "#!/bin/bash\n. common_script.sh\ncheck_program gcc\nget_source_files c\neval gcc -fsanitize=address -Wuninitialized -Wparentheses -Wreturn-type -Werror \\n         -fno-diagnostics-color -o vpl_execution $SOURCE_FILES -lm -lutil \n"
+      },
+      {
+        "name": "solver.c.txt",
+        "contents": "int soma(int a, int b){\n    return a + b;\n}"
+      }
+    ], 
+    "requiredFile": null
+    }

@@ -1,0 +1,26 @@
+{
+    "title": "@001 #4_fun Faca a função soma2",
+    "description": "Leia dois números um por linha e faça a função soma\n",
+    "executionFiles": [
+      {
+        "name": "vpl_evaluate.cases",
+        "contents": "conteudo dos testes"
+      },
+      {
+        "name": "solver.c.txt",
+        "contents": "conteudo do solver"
+      },
+      {
+        "name": "main.cpp",
+        "contents": "conteudo da main"
+      },
+      {
+        "name": "lib.h",
+        "contents": "conteudo da lib"
+      }
+    ], 
+    "requiredFile": {
+      "name": "lib.c",
+      "contents": "conteudo da lib.c"
+    }
+  }
